@@ -6,13 +6,6 @@ This project replicates the design and layout of a modern plant shop website, fe
 
 ---
 
-## 🌐 Live Demo
-
-🚀 [View Live Website](#)  
-_(Add your GitHub Pages or deployment link here)_
-
----
-
 ## 📄 Pages
 
 - **Home Page** – Showcases hero section, featured products, and promotional content  
@@ -37,5 +30,5 @@ _(Add your GitHub Pages or deployment link here)_
 
 ---
 
-## 📁 Folder Structure
+
 
